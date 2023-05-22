@@ -62,7 +62,7 @@
 
                     <div class="text-center mt-3">
                         <h5 class="menu-title mb-1"><?php echo $menu; ?></h5>
-                        <a href="detail-menu.php" class="card-text">details menu</a>
+                        <a class="card-text">details menu</a>
                     </div>
 
                     <div class="card-body mt-3">
@@ -87,7 +87,7 @@
         <footer class="row row-cols-4 py-5 mt-4">
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
                 <a href="index.html" class="navbar-brand d-flex align-items-center mb-3 d-inline-flex">kedai poligon</a>
-                <p class="desc text-justify">Food place in palembang. Especially on food for breakfast.</p>
+                <p class="desc text-justify">Nikmati Jajanan & Sarapan Lezat di Kedai Poligon, Surga Kuliner Pilihan di Palembang!</p>
             </div>
 
             <div class="col-xl-1 col-lg-1 col-md-0 col-sm-0"></div>

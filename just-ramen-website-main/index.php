@@ -44,11 +44,11 @@
           <div class="header mt-5">
             <div class="header-text">
               <h1 class="">Enjoy hot and freshly made breakfast at kedai poligon</h1>
-              <p class="w-75">Food place in palembang. Especially on food for breakfast.</p>
+              <p class="w-75">Nikmati Jajanan & Sarapan Lezat di Kedai Poligon, Surga Kuliner Pilihan di Palembang!</p>
             </div>
 
             <div class="header-link">
-              <a class="want-ramen" href="menu-ramen.php">explore breakfast!<img class="ms-3" src="assets/icon/left-rounded-arrow.svg" alt=""></a>
+              <a class="want-ramen" href="menu-ramen.php">explore menu!<img class="ms-3" src="assets/icon/left-rounded-arrow.svg" alt=""></a>
             </div>
           </div>
         </div>
@@ -58,7 +58,7 @@
         <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-4 d-none d-sm-none d-md-block d-lg-block">
           <div class="mt-4">
             <!-- <img class="z-index-min position-absolute" src="assets/icon/blob-right.svg" alt=""> -->
-            <img class="header-img" src="assets/img/bubur.png" alt="">
+            <img class="header-img" src="assets/img/poligon.png" alt="">
           </div>
         </div>
       </div>
@@ -100,10 +100,10 @@
         		<ul class="splide__list">
         			<li class="splide__slide px-4">
                 <div class="card py-5 h-100">
-                  <img class="menu-img w-100" src="assets/img/cold-hiyasi.png" alt="">
+                  <img class="menu-img w-100" src="assets/img/nasduk.png" alt="">
                   <div class="text-center mt-4">
-                    <h5 class="menu-title">Cold Hiyasi</h5>
-                    <p class="menu-desc">Chilled noodles topped with been sprouts, cucumber, tomatoes, chicken, ham and soft boiled egg. Served with home made sesame vinegar sauce and japanese hot mustard.
+                    <h5 class="menu-title">Nasi Uduk</h5>
+                    <p class="menu-desc">Nasi Uduk adalah...
                     </p>
                   </div>
                 </div>
@@ -111,10 +111,10 @@
 
         			<li class="splide__slide px-4">
                 <div class="card py-5 h-100">
-                  <img class="menu-img w-100" src="assets/img/vegan-ramen.png" alt="">
+                  <img class="menu-img w-100" src="assets/img/bubur.png" alt="">
                   <div class="text-center mt-4">
-                    <h5 class="menu-title">Vegan Ramen</h5>
-                    <p class="menu-desc">Light clear Japanese kelp and mushroom based soup with fried tofu skin, baby corn, bamboo, carrots, cabbage, mushrooms, bok choy, bean sprouts and green onions.
+                    <h5 class="menu-title">Bubur Palembang</h5>
+                    <p class="menu-desc">Bubur Palembang adalah...
                     </p>
                   </div>
                 </div>
@@ -122,10 +122,10 @@
 
         			<li class="splide__slide px-4">
                 <div class="card py-5 h-100">
-                  <img class="menu-img w-100" src="assets/img/spicy-miso.png" alt="">
+                  <img class="menu-img w-100" src="assets/img/escoklat.png" alt="">
                   <div class="text-center mt-4">
-                    <h5 class="menu-title">Spicy Miso</h5>
-                    <p class="menu-desc">Rich pork bone soup with Japanese spicy miso, topped with thinly sliced pork, soft boiled egg, bamboo, carrots, cabbage, mushrooms, green onions, bok choy, bean sprouts.
+                    <h5 class="menu-title">Es Coklat Nyandu</h5>
+                    <p class="menu-desc">Es Coklat Nyandu adalah...
                     </p>
                   </div>
                 </div>
@@ -133,10 +133,10 @@
 
               <li class="splide__slide px-4">
                 <div class="card py-5 h-100">
-                  <img class="menu-img w-100" src="assets/img/tan-tan-men.png" alt="">
+                  <img class="menu-img w-100" src="assets/img/putuayu.png" alt="">
                   <div class="text-center mt-4">
-                    <h5 class="menu-title">Tan-Tan Men</h5>
-                    <p class="menu-desc">Rich pork bone soup with spicy, sesame and nutty flavors topped with ground pork, soft boiled egg, bok choy and bean sprouts, served hot.
+                    <h5 class="menu-title">Putu Ayu</h5>
+                    <p class="menu-desc">Putu Ayu adalah...
                     </p>
                   </div>
                 </div>
@@ -144,10 +144,10 @@
 
               <li class="splide__slide px-4" width="auto">
                 <div class="card py-5 h-100">
-                  <img class="menu-img w-100" src="assets/img/tonkotsu.png" alt="">
+                  <img class="menu-img w-100" src="assets/img/bakwan.png" alt="">
                   <div class="text-center mt-4">
-                    <h5 class="menu-title">Tonkotsu</h5>
-                    <p class="menu-desc">Rich pork bone soup base with hints of Japanese soy sauce topped with chashu pork, soft boiled egg, green onions, bean sprouts, and ginger.
+                    <h5 class="menu-title">Bakwan</h5>
+                    <p class="menu-desc">Bakwan adalah...
                     </p>
                   </div>
                 </div>
@@ -155,10 +155,10 @@
 
               <li class="splide__slide px-4">
                 <div class="card py-5 h-100">
-                  <img class="menu-img w-100" src="assets/img/shio-chicken-ramen.png" alt="">
+                  <img class="menu-img w-100" src="assets/img/risol.png" alt="">
                   <div class="text-center mt-4">
-                    <h5 class="menu-title">Shio Chicken Ramen</h5>
-                    <p class="menu-desc">Light clear chicken soup topped with chicken chashu, soft boiled egg, bean sprouts, dried seaweeds and green onions, served fresh and hot.
+                    <h5 class="menu-title">Risol</h5>
+                    <p class="menu-desc">Risol adalah...
                     </p>
                   </div>
                 </div>
@@ -174,7 +174,7 @@
     <footer class="row row-cols-4 py-5 mt-4">
       <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
         <a href="index.html" class="navbar-brand d-flex align-items-center mb-3 d-inline-flex">kedai poligon</a>
-        <p class="desc text-justify">Food place in palembang. Especially on food for breakfast.</p>
+        <p class="desc text-justify">Nikmati Jajanan & Sarapan Lezat di Kedai Poligon, Surga Kuliner Pilihan di Palembang!</p>
       </div>
 
       <div class="col-xl-1 col-lg-1 col-md-0 col-sm-0"></div>
