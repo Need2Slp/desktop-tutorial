@@ -62,12 +62,12 @@
 
                     <div class="text-center mt-3">
                         <h5 class="menu-title mb-1"><?php echo $menu; ?></h5>
-                        <a href="detail-menu.php" class="card-text">details menu</a>
+                        <a class="card-text">details menu</a>
                     </div>
 
-                    <!-- <div class="card-body mt-3">
+                    <div class="card-body mt-3">
                 <p class="menu-desc card-text" style="text-align: left;"><?php echo $deskripsi; ?></p>
-            </div> -->
+            </div>
 
                     <div class="">
                         <p class="price mb-0 mt-3">IDR <?php echo $harga; ?></p>
