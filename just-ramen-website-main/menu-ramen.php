@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" href="assets/icon/favicon.png">
-    <title>Menu | just ramen</title>
+    <title>Menu | kedai poligon</title>
     <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
     <!-- CSS -->
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.css">
@@ -15,7 +15,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-light py-4">
     <div class="container">
-        <a class="navbar-brand mx-auto" href="index.php">just ramen</a>
+        <a class="navbar-brand mx-auto" href="index.php">kedai poligon</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -86,8 +86,8 @@
     <div class="container">
         <footer class="row row-cols-4 py-5 mt-4">
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-                <a href="index.html" class="navbar-brand d-flex align-items-center mb-3 d-inline-flex">just ramen</a>
-                <p class="desc text-justify">a well known japanese restaurant in Bandung. Specialized on ramen and any japanese foods.</p>
+                <a href="index.html" class="navbar-brand d-flex align-items-center mb-3 d-inline-flex">kedai poligon</a>
+                <p class="desc text-justify">Nikmati Jajanan & Sarapan Lezat di Kedai Poligon, Surga Kuliner Pilihan di Palembang!</p>
             </div>
 
             <div class="col-xl-1 col-lg-1 col-md-0 col-sm-0"></div>
