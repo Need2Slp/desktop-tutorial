@@ -28,9 +28,6 @@
                 <li class="nav-item me-3">
                     <a class="nav-link" href="promo.php">Promo</a>
                 </li>
-                <li class="nav-item me-3">
-                    <a class="nav-link" href="promo.php">Cart</a>
-                </li>
                 <li class="nav-item">
                     <a class="nav-link" href="login.php">Login</a>
                 </li>
@@ -62,7 +59,6 @@
 
                     <div class="text-center mt-3">
                         <h5 class="menu-title mb-1"><?php echo $menu; ?></h5>
-                        <a href="detail-menu.php" class="card-text">details menu</a>
                     </div>
 
                     <div class="card-body mt-3">
@@ -71,8 +67,6 @@
 
                     <div class="">
                         <p class="price mb-0 mt-3">IDR <?php echo $harga; ?></p>
-                        <input class="btn btn-primary" type="submit" value="Add Item" >
-                        <input type="number" name="qty" class="mb-2 mt-2" min="1" max="99" onkeypress="if(this.value.length == 2) return false;" value="1">
                     </div>
 
                 </div>
