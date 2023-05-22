@@ -27,9 +27,9 @@
             <li class="nav-item me-3">
               <a class="nav-link" href="promo.php">Promo</a>
             </li>
-            <li class="nav-item me-3">
-              <a class="nav-link" href="shop.php">Shop</a>
-            </li>
+<!--            <li class="nav-item me-3">-->
+<!--              <a class="nav-link" href="shop.php">Shop</a>-->
+<!--            </li>-->
             <li class="nav-item">
               <a class="nav-link" href="login.php">Login</a>
             </li>
@@ -44,7 +44,7 @@
           <div class="header mt-5">
             <div class="header-text">
               <h1 class="">Enjoy hot and freshly made breakfast at kedai poligon</h1>
-              <p class="w-75">Taste the best foods of japan, we deliver authentic and delicious ramen in Indonesia</p>
+              <p class="w-75">Food place in palembang. Especially on food for breakfast.</p>
             </div>
 
             <div class="header-link">
@@ -58,7 +58,7 @@
         <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-4 d-none d-sm-none d-md-block d-lg-block">
           <div class="mt-4">
             <!-- <img class="z-index-min position-absolute" src="assets/icon/blob-right.svg" alt=""> -->
-            <img class="header-img" src="assets/img/ramen-head.svg" alt="">
+            <img class="header-img" src="assets/img/bubur.png" alt="">
           </div>
         </div>
       </div>
@@ -84,7 +84,7 @@
           <div class="card lil-card">
             <span class="mb-3"><img class="" src="assets/icon/phone-rounded.svg" alt=""></span>
             <p class="title">+62 812 719 599 44</p>
-            <a class="sub-title mb-0" href="https://api.whatsapp.com/send?phone=6281271959944">Reservation</a>
+            <a class="sub-title mb-0" href="https://api.whatsapp.com/send?phone=6281271959944">Contact us</a>
           </div>
         </div>
       </div>
@@ -173,8 +173,8 @@
   <div class="container">
     <footer class="row row-cols-4 py-5 mt-4">
       <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
-        <a href="index.html" class="navbar-brand d-flex align-items-center mb-3 d-inline-flex">just ramen</a>
-        <p class="desc text-justify">a well known japanese restaurant in Bandung. Specialized on ramen and any japanese foods.</p>
+        <a href="index.html" class="navbar-brand d-flex align-items-center mb-3 d-inline-flex">kedai poligon</a>
+        <p class="desc text-justify">Food place in palembang. Especially on food for breakfast.</p>
       </div>
 
       <div class="col-xl-1 col-lg-1 col-md-0 col-sm-0"></div>

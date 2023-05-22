@@ -23,7 +23,7 @@ header("location:login.php");
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/style-beta.css">
 	<link rel="icon" type="image/png" href="assets/icon/favicon.png">
-	<title>Account | just ramen</title>
+	<title>Account | kedai poligon</title>
 </head>
 <body>
 
@@ -37,7 +37,7 @@ header("location:login.php");
 	<section id="sidebar" class="hide">
 		<a href="index.php" class="brand">
 			<i class='bx bxs-cog'></i>
-			<span class="ml-2">just ramen</span>
+			<span class="ml-2">kedai poligon</span>
 		</a>
 		<ul class="side-menu top ps-0">
 			<li>
