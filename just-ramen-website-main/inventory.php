@@ -1,5 +1,6 @@
 <?php
 //memulai session yang disimpan pada browser
+global $conn;
 session_start();
 
 //cek apakah sesuai status sudah login? kalau belum akan kembali ke form login

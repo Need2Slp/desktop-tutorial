@@ -3,7 +3,7 @@
 $server = "localhost";
 $user = "root";
 $pass = "";
-$database = "db_ramen";
+$database = "just_ramendb";
 
 $conn = mysqli_connect($server, $user, $pass, $database);
 

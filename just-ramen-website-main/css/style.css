@@ -27,7 +27,7 @@ a {
 }
 
 tr.promo-card {
-  padding: : 10px!important;
+  padding: 10px!important;
 }
 
 .sub-title a {
@@ -273,7 +273,7 @@ tr.promo-card {
 
 .btn-red {
   background-color: red;
-  color white;
+  color: white;
 }
 
 .splide__arrow {
