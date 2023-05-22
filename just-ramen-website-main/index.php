@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" href="assets/icon/favicon.png">
-    <title>just ramen</title>
+    <title>kedai poligon</title>
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="splide/css/splide.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -14,7 +14,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-light py-4">
       <div class="container">
-        <a class="navbar-brand mx-auto" href="index.php">just ramen</a>
+        <a class="navbar-brand mx-auto" href="index.php">kedai poligon</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -43,12 +43,12 @@
         <div class="col-xxl-6 col-xl-7 col-lg-7 col-md-8 col-sm-12">
           <div class="header mt-5">
             <div class="header-text">
-              <h1 class="">Enjoy hot and freshly made ramen at just ramen</h1>
+              <h1 class="">Enjoy hot and freshly made breakfast at kedai poligon</h1>
               <p class="w-75">Taste the best foods of japan, we deliver authentic and delicious ramen in Indonesia</p>
             </div>
 
             <div class="header-link">
-              <a class="want-ramen" href="menu-ramen.php">explore ramen!<img class="ms-3" src="assets/icon/left-rounded-arrow.svg" alt=""></a>
+              <a class="want-ramen" href="menu-ramen.php">explore breakfast!<img class="ms-3" src="assets/icon/left-rounded-arrow.svg" alt=""></a>
             </div>
           </div>
         </div>
@@ -67,24 +67,24 @@
         <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 my-3">
           <div class="card lil-card">
             <span class="mb-3"><img class="" src="assets/icon/clock-rounded.svg" alt=""></span>
-            <p class="title">10:00 am - 8.00 pm</p>
-            <p class="sub-title mb-0">Monday to Sunday</p>
+            <p class="title">06:00 am - 7.00 pm</p>
+            <p class="sub-title mb-0">Everyday</p>
           </div>
         </div>
 
         <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 my-3">
           <div class="card lil-card">
             <span class="mb-3"><img class="" src="assets/icon/location-rounded.svg" alt=""></span>
-            <p class="title">Bahureksa 10, Bandung</p>
-            <a class="sub-title" href="https://www.google.com/maps/@-6.9052821,107.6142762,20.3z" target="_blank" style="text-decoration: none;">Get directions</a>
+            <p class="title">Jl. Raya Bukit Sejahtera, Palembang</p>
+            <a class="sub-title" href="https://www.google.com/maps/@-3.0072563252488203,104.72004950318862,21.3z" target="_blank" style="text-decoration: none;">Get directions</a>
           </div>
         </div>
 
         <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-12 my-3">
           <div class="card lil-card">
             <span class="mb-3"><img class="" src="assets/icon/phone-rounded.svg" alt=""></span>
-            <p class="title">+62 888 909 767</p>
-            <p class="sub-title mb-0">Reservation</p>
+            <p class="title">+62 812 719 599 44</p>
+            <a class="sub-title mb-0" href="https://api.whatsapp.com/send?phone=6281271959944">Reservation</a>
           </div>
         </div>
       </div>
