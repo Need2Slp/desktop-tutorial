@@ -24,7 +24,7 @@ header("location:login.php");
 	<link rel="stylesheet" type="text/css" href="css/jsCalendar.css">
 	<link rel="stylesheet" href="css/style-beta.css">
 	<link rel="icon" type="image/png" href="assets/icon/favicon.png">
-	<title>Dashboard | just ramen</title>
+	<title>Dashboard | kedai poligon</title>
 </head>
 <body>
 

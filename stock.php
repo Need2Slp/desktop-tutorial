@@ -23,7 +23,7 @@ header("location:login.php");
 	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.css">
 	<link rel="stylesheet" href="css/style-beta.css">
 	<link rel="icon" type="image/png" href="assets/icon/favicon.png">
-	<title>Stock | just ramen</title>
+	<title>Stock | kedai poligon</title>
 </head>
 <body>
 
