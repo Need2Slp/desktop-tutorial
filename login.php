@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" href="assets/icon/favicon.png">
-    <title>Login | just ramen</title>
+    <title>Login | kedai poligon</title>
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
 
@@ -14,7 +14,7 @@
 
    <nav class="navbar navbar-expand-lg navbar-light">
       <div class="container">
-        <a class="navbar-brand mx-auto" href="index.php">just ramen</a>
+        <a class="navbar-brand mx-auto" href="index.php">kedai poligon</a>
       </div>
     </nav>
 

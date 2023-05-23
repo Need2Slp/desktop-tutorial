@@ -69,8 +69,6 @@
 
                     <div class="">
                         <p class="price mb-0 mt-3">IDR <?php echo $harga; ?></p>
-                        <input class="btn btn-primary" type="submit" value="Add Item" >
-                        <input type="number" name="qty" class="mb-2 mt-2" min="1" max="99" onkeypress="if(this.value.length == 2) return false;" value="1">
                     </div>
 
                 </div>
@@ -93,9 +91,8 @@
             <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12">
                 <h5 class="nav-col mb-3">Social Media</h5>
                 <ul class="nav flex-column">
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 d-inline-flex">Twitter</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 d-inline-flex">Instagram</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 d-inline-flex">Facebook</a></li>
+                    <li class="nav-item mb-2"><a href="https://www.instagram.com/es_coklat_nyandu_poligon/" class="nav-link p-0 d-inline-flex">Instagram</a></li>
+                    <li class="nav-item mb-2"><a href="tel:+6281271959944" class="nav-link p-0 d-inline-flex">WhatsApp</a></li>
                 </ul>
             </div>
 
