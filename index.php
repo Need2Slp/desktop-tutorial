@@ -103,7 +103,8 @@
                   <img class="menu-img w-100" src="assets/img/nasduk.png" alt="">
                   <div class="text-center mt-4">
                     <h5 class="menu-title">Nasi Uduk</h5>
-                    <p class="menu-desc">Nasi Uduk adalah...
+                    <p class="menu-desc">
+                        Hidangan nasi yang dimasak dengan santan dan rempah-rempah khas Indonesia. Nasi ini memiliki aroma harum yang khas dan rasanya gurih. disajikan dengan pelengkap seperti ayam goreng, telur, ikan asin, dan serundeng.
                     </p>
                   </div>
                 </div>
@@ -114,7 +115,7 @@
                   <img class="menu-img w-100" src="assets/img/bubur.png" alt="">
                   <div class="text-center mt-4">
                     <h5 class="menu-title">Bubur Palembang</h5>
-                    <p class="menu-desc">Bubur Palembang adalah...
+                    <p class="menu-desc">Bubur Palembang adalah bubur beras dengan kuah kaldu ikan yang kaya rempah-rempah, disajikan dengan ikan goreng dan pelengkap seperti emping, telur pindang, dan bawang goreng. Rasanya gurih dan aromanya khas.
                     </p>
                   </div>
                 </div>
@@ -125,40 +126,22 @@
                   <img class="menu-img w-100" src="assets/img/escoklat.png" alt="">
                   <div class="text-center mt-4">
                     <h5 class="menu-title">Es Coklat Nyandu</h5>
-                    <p class="menu-desc">Es Coklat Nyandu adalah...
+                    <p class="menu-desc">
+                        Es coklat minuman segar yang terdiri dari cokelat yang disajikan dengan es dan potongan roti. Minuman ini memiliki rasa 
+                        manis dan menyegarkan, di mana cokelat cair yang kental dicampur dengan es untuk memberikan sensasi dingin. 
                     </p>
                   </div>
                 </div>
               </li>
+
+              
 
               <li class="splide__slide px-4">
                 <div class="card py-5 h-100">
-                  <img class="menu-img w-100" src="assets/img/putuayu.png" alt="">
+                  <img class="menu-img w-100" src="assets/img/basoaci.png" alt="">
                   <div class="text-center mt-4">
-                    <h5 class="menu-title">Putu Ayu</h5>
-                    <p class="menu-desc">Putu Ayu adalah...
-                    </p>
-                  </div>
-                </div>
-              </li>
-
-              <li class="splide__slide px-4" width="auto">
-                <div class="card py-5 h-100">
-                  <img class="menu-img w-100" src="assets/img/bakwan.png" alt="">
-                  <div class="text-center mt-4">
-                    <h5 class="menu-title">Bakwan</h5>
-                    <p class="menu-desc">Bakwan adalah...
-                    </p>
-                  </div>
-                </div>
-              </li>
-
-              <li class="splide__slide px-4">
-                <div class="card py-5 h-100">
-                  <img class="menu-img w-100" src="assets/img/risol.png" alt="">
-                  <div class="text-center mt-4">
-                    <h5 class="menu-title">Risol</h5>
-                    <p class="menu-desc">Risol adalah...
+                    <h5 class="menu-title">Baso aci</h5>
+                    <p class="menu-desc">Baso aci adalah bola-bola kecil kenyal yang terbuat dari adonan tepung kanji dan daging sapi cincang dengan rasa gurih.
                     </p>
                   </div>
                 </div>
